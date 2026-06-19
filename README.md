@@ -20,17 +20,21 @@ Currently evolving and gaining new features regularly!
 
 ---
 
-<!--
-**ParrotGames/ParrotGames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github-readme-stats.vercel.app/api?username=ParrotGames&show_icons=true&theme=tokyonight" />
 
-Here are some ideas to get you started:
+<img src="https://streak-stats.demolab.com?user=ParrotGames&theme=tokyonight&hide_border=true" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ParrotGames&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ParrotGames&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ParrotGames&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ParrotGames&theme=tokyonight" />
+
+<img src="https://lanyard.cnrad.dev/api/1358085687131242701?theme=dark&animated=true&borderRadius=12px" />
+<img src="https://lanyard.cnrad.dev/api/1358085687131242701?theme=dark&bg=282A36&borderRadius=12px&animated=true" width="280" alt="discord presence" />
+
+<a href="https://github.com/ParrotGames">
+  <img src="./pfp.png" width="180" style="border-radius: 100px; box-shadow: 0px 0px 15px rgba(139, 250, 185, 0.4);" alt="saraansx" />
+</a>
